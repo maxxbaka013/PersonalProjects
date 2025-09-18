@@ -1,3 +1,5 @@
+pip install -r requirements.txt
+
 import io
 import os
 import time
